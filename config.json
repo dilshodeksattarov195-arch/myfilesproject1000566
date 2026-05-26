@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentrelete",
+        "uuid": 3302610,
+        "checksum": "if403i"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
